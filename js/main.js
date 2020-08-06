@@ -1,21 +1,9 @@
 /*
  * ALL RIGHTS RESERVED.
  *
- * 作者：酷安@_小K同學
+
  * 项目开始日期：2020年01月26日
  * 上次修改时间：2020年03月24日
- * 开发日志：https://kksan.top/posts/12023
- *
- * 开源相关：
- * Github：https://github.com/Jackie1123/aNavigation
- * CSSFX：https://cssfx.netlify.com
- * jQuery：https://jquery.com
- * slideout：https://slideout.js.org
- * bootstrap：https://getbootstrap.com
- * font-awesome：https://fontawesome.com
- *
- * 版权所有，请勿删除！
- */
 
 var storage = window.localStorage;
 var data = storage.data;
@@ -75,10 +63,10 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '开发日志',
-      link: 'http://kksan.top/posts/12023/',
+      name: '码云',
+      link: 'https://gitee.com/',
       box_shadow: '#F18033',
-      icon: 'img/log.png',
+      icon: 'img/gitee.jpg',
     }, {
       name: '酷安',
       link: 'https://www.coolapk.com',
