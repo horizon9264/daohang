@@ -75,10 +75,10 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '开发日志',
-      link: 'http://kksan.top/posts/12023/',
+      name: '码云',
+      link: 'https://gitee.com/',
       box_shadow: '#F18033',
-      icon: 'img/log.png',
+      icon: 'img/gitee.jpg',
     }, {
       name: '酷安',
       link: 'https://www.coolapk.com',
