@@ -80,8 +80,8 @@ $(function() {
       box_shadow: '#F18033',
       icon: 'img/gitee.jpg',
     }, {
-      name: '酷安',
-      link: 'https://www.coolapk.com',
+      name: '酷安市场',
+      link: 'https://www.coolapk.com/apk',
       box_shadow: '#11B063',
       icon: 'img/coolapk.png',
     }, {
